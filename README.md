@@ -26,6 +26,16 @@ cordova platform add android
 # Run App
 cordova build
 cordova run android
+
+# Adding Plugin
+cordova plugin add cordova-plugin-geolocation
+
+```
+## Using again
+
+```
+cd blindwalker/
+npm install
 ```
 
 ## References
