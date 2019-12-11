@@ -1,7 +1,7 @@
 # Blind Walker
  Development of an app that will show geographic points to help the visually impaired. Development of a cordova hybrid application.
 
- ## How to Intall
+ ## How to Install
 
  ```bash
 # Install npm, node and gradle
