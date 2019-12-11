@@ -23,6 +23,9 @@ cordova platform
 # Generate App for Android
 cordova platform add android
 
+# Run App
+cordova build
+cordova run android
 ```
 
 ## References
